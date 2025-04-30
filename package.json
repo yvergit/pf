@@ -1,5 +1,5 @@
 {
-  "homepage": "https://yvergit.github.io/yverdon/",
+  "homepage": "https://yvergit.github.io/yverdon",
   "description": "Mini car racing webgame on react-three-fiber + cannon.js",
   "name": "r3f-car-racing",
   "private": true,
@@ -7,9 +7,9 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "vite build && cp -r dist/* . && touch .nojekyll",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
+    "deploy": "git add . && git commit -m 'Deploy to main' && git push origin main",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
