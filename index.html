@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/yverdon/assets/logo-vzh8vGaN.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>🚗 R3F Car Racing! 🚗</title>
+    <style>
+      /* Basic loader styles */
+      #loader {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: #163f04;
+        color: rgb(255, 255, 255);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        z-index: 9999;
+        font-family: sans-serif;
+      }
+
+      .lds-ellipsis {
+        display: inline-block;
+        position: relative;
+        width: 80px;
+        height: 13px;
+        margin-bottom: 10px;
+      }
+
+      .lds-ellipsis div {
+        position: absolute;
+        top: 0;
+        width: 13px;
+        height: 13px;
+        border-radius: 50%;
+        background: #ffffff;
+        animation-timing-function: cubic-bezier(0, 1, 1, 0);
+      }
+
+      .lds-ellipsis div:nth-child(1) {
+        left: 8px;
+        animation: lds-ellipsis1 0.6s infinite;
+      }
+
+      .lds-ellipsis div:nth-child(2) {
+        left: 8px;
+        animation: lds-ellipsis2 0.6s infinite;
+      }
+
+      .lds-ellipsis div:nth-child(3) {
+        left: 32px;
+        animation: lds-ellipsis2 0.6s infinite;
+      }
+
+      .lds-ellipsis div:nth-child(4) {
+        left: 56px;
+        animation: lds-ellipsis3 0.6s infinite;
+      }
+
+      @keyframes lds-ellipsis1 {
+        0% {
+          transform: scale(0);
+        }
+        100% {
+          transform: scale(1);
+        }
+      }
+
+      @keyframes lds-ellipsis2 {
+        0% {
+          transform: translateX(0);
+        }
+        100% {
+          transform: translateX(24px);
+        }
+      }
+
+      @keyframes lds-ellipsis3 {
+        0% {
+          transform: scale(1);
+        }
+        100% {
+          transform: scale(0);
+        }
+      }
+
+      /* Fade-out animation */
+      .fade-out {
+        opacity: 0;
+        transition: opacity 0.5s ease-out;
+        pointer-events: none;
+      }
+
+      body {
+        margin: 0;
+        background-color: #163f04;
+      }
+    </style>
+    <script type="module" crossorigin src="/yverdon/assets/index-7YtcdJZr.js"></script>
+    <link rel="stylesheet" crossorigin href="/yverdon/assets/index-HfRQN2HX.css">
+  </head>
+
+  <body>
+    <div id="loader">
+      <div class="lds-ellipsis">
+        <div></div><div></div><div></div><div></div>
+      </div>
+      <h2>Loading...</h2>
+    </div>
+
+    <div id="root"></div>
+
+    <!-- Game Script -->
+
+    <!-- Delayed loader removal -->
+    <script>
+      const checkReady = () => {
+        const root = document.getElementById('root');
+        if (root.children.length > 0) {
+          setTimeout(() => {
+            const loader = document.getElementById('loader');
+            loader.classList.add('fade-out');
+            setTimeout(() => loader.remove(), 500); // extra fade
+          }, 2000); // Wait 3s after app mounts
+        } else {
+          requestAnimationFrame(checkReady);
+        }
+      };
+      requestAnimationFrame(checkReady);
+    </script>
+  </body>
+</html>
