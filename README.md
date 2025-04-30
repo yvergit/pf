@@ -2,7 +2,7 @@
 **Scroll down for english version!!**
 
 
-### 🇳🇱 Yverdon Pierre – Full Stack JavaScript Developer | AI & API Integratie Expert | Blockchain Specialist | Frontend Specialist
+🇳🇱 Yverdon - Software devolper
 
 ---
 
@@ -61,6 +61,11 @@ Ik heb gewerkt aan talloze projecten, waaronder **3D-webshops**, **AI-chatbots**
 
 ---
 
+
+
+
+
+
 ### 🧑‍💻 Professionele Ervaring
 
 #### 🛍️ **Web Developer (React, 3D UI, Blender)** – **Yogaloo.com**  
@@ -91,6 +96,12 @@ Gedurende deze periode richtte ik me op het maken van **full-stack applicaties**
 
 ---
 
+
+
+
+
+
+
 #### 🏠 **Schlappi Zonneschermen 3D App (Shutter Visualization Tool)**  
 *2023 – 2024 | Freelance / Remote*
 
@@ -119,6 +130,11 @@ Ik ontwikkelde en customiseerde een **Wix-website** voor **Natasha Mulluswela**,
 - Nauw samengewerkt met de klant om hun visie voor het merk en ontwerp te realiseren, zodat de site de **esthetiek** van het bedrijf perfect weergaf.
 
 ---
+
+
+
+
+
 
 #### 📦 **Blockchain Developer Freelance**  
 *2019 – Heden*
@@ -171,7 +187,9 @@ Naast blockchainwerk heb ik ook verschillende **websites en apps** ontwikkeld vo
 
 
 
-### 🇬🇧 Yverdon Pierre – Full Stack JavaScript Developer | AI & API Integration Expert | Blockchain Specialist | Frontend Specialist
+
+
+🇬🇧 Yverdon - Software devolper
 
 ---
 
@@ -230,6 +248,10 @@ I have worked on numerous projects, including **3D webshops**, **AI chatbots**, 
 
 ---
 
+
+
+
+
 ### 🧑‍💻 Professional Experience
 
 #### 🛍️ **Web Developer (React, 3D UI, Blender)** – **Yogaloo.com**  
@@ -247,6 +269,11 @@ At **Yogaloo**, I developed a **3D webshop** where customers could explore yoga 
 
 ---
 
+
+
+
+
+
 #### 🚀 **Full Stack Developer (Freelance)**  
 *2023 – 2025 | Remote / Netherlands*
 
@@ -259,6 +286,13 @@ During this period, I focused on creating **full-stack applications** and integr
 - **DeFi Lending Platform**: Developed a **blockchain-based lending platform** using **Solidity** and **Ethereum**, enabling users to securely lend and borrow cryptocurrency using **smart contracts**.
 
 ---
+
+
+
+
+
+
+
 
 #### 🏠 **Schlappi Shutters 3D App (Shutter Visualization Tool)**  
 *2023 – 2024 | Freelance / Remote*
@@ -273,6 +307,12 @@ I developed a **3D visualization app** for Schlappi Shutters, allowing users to 
 - **Real-time adjustments** were implemented, allowing users to change the size, color, and material of the shutters and instantly view changes in the 3D model.
 
 ---
+
+
+
+
+
+
 
 #### 🌍 **Web Developer (Wix for Natasha Mulluswela)**  
 *2023 – 2024 | Remote*
@@ -301,6 +341,11 @@ As a **Blockchain Developer**, I developed smart contracts for DeFi projects, NF
 - **Logistics dApp**: Provides transparent supply chain tracking on Ethereum.
 
 ---
+
+
+
+
+
 
 #### 🕹️ **Software Developer Freelance**  
 *2018 – Present*
