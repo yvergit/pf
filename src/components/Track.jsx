@@ -3,7 +3,6 @@ import { useLoader } from "@react-three/fiber";
 import ColliderBox from "./ColliderBox";
 import Ramp from "./Ramp";
 
-
 const Track = () => {
   const result = useLoader(GLTFLoader, "models/track.glb").scene;
 
