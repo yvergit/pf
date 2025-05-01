@@ -19,27 +19,27 @@ Ik ben een **Full Stack JavaScript Developer** met meer dan **8 jaar ervaring**,
 Ik heb gewerkt aan talloze projecten, waaronder **3D-webshops**, **AI-chatbots**, en **DeFi-platforms**, waarbij ik zowel frontend- als backendtechnologieën gebruik om innovatieve oplossingen te leveren. Mijn ervaring in **blockchainontwikkeling**, inclusief het gebruik van **Solidity** en **Cadence**, stelt me in staat om op maat gemaakte smart contracts en gedecentraliseerde applicaties te creëren die veilige en efficiënte transacties mogelijk maken.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 ### ⚙️ Belangrijkste Vaardigheden
@@ -60,30 +60,30 @@ Ik heb gewerkt aan talloze projecten, waaronder **3D-webshops**, **AI-chatbots**
 - **API Integratie**: RESTful APIs, GraphQL, WebSockets, Firebase, Stripe, Google APIs, AWS SDK  
 - **Authenticatie**: JWT, OAuth2, Sessiegebaseerde Authenticatie  
 - **AI Integratie**: TensorFlow, OpenAI GPT, ChatGPT, Machine Learning APIs, Natural Language Processing (NLP)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 #### ☁️ **Cloud & DevOps**
@@ -106,29 +106,29 @@ Ik heb gewerkt aan talloze projecten, waaronder **3D-webshops**, **AI-chatbots**
 - **SEO & Digitale Marketing**: Implementeren van SEO-best practices, Google Analytics, integratie van sociale media
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### 🧑‍💻 Professionele Ervaring
 
@@ -159,10 +159,10 @@ Gedurende deze periode richtte ik me op het maken van **full-stack applicaties**
 - **DeFi Lending Platform**: Ontwikkelde een **blockchain-gebaseerd leenplatform** met **Solidity** en **Ethereum**, zodat gebruikers veilig cryptocurrency konden lenen en uitlenen met behulp van **smart contracts**.
 
 ---
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 #### 🏠 **Schlappi Zonneschermen 3D App (Shutter Visualization Tool)**  
 *2023 – 2024 | Freelance / Remote*
@@ -177,7 +177,7 @@ Ik ontwikkelde een **3D-visualisatie-app** voor Schlappi Zonneschermen, waarmee 
 - **Realtime aanpassingen** geïmplementeerd waarbij gebruikers de grootte, kleur en het materiaal van de zonneschermen konden wijzigen en direct de veranderingen in het 3D-model konden zien.
 
 ---
-
+<br>
 
 #### 🌍 **Web Developer (Wix voor Natasha Mulluswela)**  
 *2023 – 2024 | Remote*
@@ -193,9 +193,9 @@ Ik ontwikkelde en customiseerde een **Wix-website** voor **Natasha Mulluswela**,
 - Nauw samengewerkt met de klant om hun visie voor het merk en ontwerp te realiseren, zodat de site de **esthetiek** van het bedrijf perfect weergaf.
 
 ---
-
-
-
+<br>
+<br>
+<br>
 #### 📦 **Blockchain Developer Freelance**  
 *2019 – Heden*
 
@@ -221,23 +221,23 @@ Naast blockchainwerk heb ik ook verschillende **websites en apps** ontwikkeld vo
 - **Car Game in JAVA**: Opgemaakt met objectgeoriënteerde principes en game loop logica.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### 🎓 Opleiding & Certificeringen
 
@@ -260,29 +260,29 @@ Naast blockchainwerk heb ik ook verschillende **websites en apps** ontwikkeld vo
 - **3D-webontwikkeling**: Creëerde meeslepende **3D-ervaringen** met **React Three Fiber**, waarmee klanten op unieke en boeiende manieren producten konden verkennen.
 - **Smart Contracts & Blockchain**: Ontworpen en gedeployed **smart contracts** op **Ethereum** en **Flow Blockchain**, gewerkt aan **NFT's**, **DeFi** en **dApps**, en leverde veilige en schaalbare oplossingen.
 - **Real-time Systemen**: Ontwikkelde en integreerde **real-time datasystemen** met **WebSockets**, wat de gebruikerservaring verbeterde door live meldingen en instant updates.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 **Scroll up for Dutch version!!**
 
@@ -304,27 +304,27 @@ I am a **Full Stack JavaScript Developer** with over **8 years of experience**, 
 I’ve worked on numerous projects including **3D webshops**, **AI chatbots**, and **DeFi platforms**, utilizing both frontend and backend technologies to deliver innovative solutions. My experience in **blockchain development**, including the use of **Solidity** and **Cadence**, enables me to create custom smart contracts and decentralized applications that enable secure and efficient transactions.
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### ⚙️ Core Skills
 
@@ -344,30 +344,30 @@ I’ve worked on numerous projects including **3D webshops**, **AI chatbots**, a
 - **API Integration**: RESTful APIs, GraphQL, WebSockets, Firebase, Stripe, Google APIs, AWS SDK  
 - **Authentication**: JWT, OAuth2, Session-based Authentication  
 - **AI Integration**: TensorFlow, OpenAI GPT, ChatGPT, Machine Learning APIs, Natural Language Processing (NLP)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### ☁️ **Cloud & DevOps**
 - **Cloud Platforms**: AWS, Azure, Google Cloud Platform  
@@ -389,29 +389,29 @@ I’ve worked on numerous projects including **3D webshops**, **AI chatbots**, a
 - **SEO & Digital Marketing**: Implementing SEO best practices, Google Analytics, social media integration
 
 ---
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### 🧑‍💻 Professional Experience
 
@@ -442,13 +442,13 @@ During this period, I focused on building **full-stack applications** and integr
 - **DeFi Lending Platform**: Built a **blockchain-based lending platform** using **Solidity** and **Ethereum**, allowing users to securely lend and borrow cryptocurrency using **smart contracts**.
 
 ---
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### 🏠 **Schlappi Sunshade 3D App (Shutter Visualization Tool)**  
 *2023 – 2024 | Freelance / Remote*
@@ -463,7 +463,7 @@ I developed a **3D visualization app** for Schlappi Sunshades, allowing users to
 - Enabled **real-time customization** where users could change size, color, and material of sunshades and instantly see updates in the 3D model.
 
 ---
-
+<br>
 
 #### 🌍 **Web Developer (Wix for Natasha Mulluswela)**  
 *2023 – 2024 | Remote*
@@ -479,13 +479,13 @@ I built and customized a **Wix website** for **Natasha Mulluswela**, a client in
 - Worked closely with the client to realize their brand vision, making sure the site perfectly reflected the business's **aesthetic**.
 
 ---
-
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 #### 📦 **Blockchain Developer Freelance**  
 *2019 – Present*
 
@@ -511,6 +511,25 @@ In addition to blockchain work, I’ve developed various **websites and apps** f
 - **Car Game in JAVA**: Designed using object-oriented principles and game loop logic.
 
 ---
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### 🎓 Education & Certifications
 
