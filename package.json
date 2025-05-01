@@ -1,4 +1,7 @@
 {
+  "homepage": "https://yvergit.github.io/yverdon",
+  "description": "My new portfolio site",
+  "name": "Portfolio",
   "name": "nextjs-creative-portfolio",
   "version": "0.1.0",
   "private": true,
